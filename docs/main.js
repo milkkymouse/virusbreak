@@ -178,7 +178,7 @@ var selectCustomVirus = function (virusname) {
             virus.lethality = customvirus.lethality;
             virus.vaccination = customvirus.vaccination;
             virus.quarantine = customvirus.quarantine;
-            virus.distancing = customvirus.quarantine;
+            virus.distancing = customvirus.distancing;
 
             updateSliders();
             resetSimulation();
