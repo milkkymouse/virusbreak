@@ -42,5 +42,16 @@
         "vaccination" : 0,
         "quarantine" : true,
         "distancing" : false
+    },
+
+    {
+        "name" : "Smallpox", 
+        "virulence" : 0.2,
+        "incubation" : 10,
+        "infection" : 5,
+        "lethality" : 0.5,
+        "vaccination" : 0,
+        "quarantine" : true,
+        "distancing" : false
     }
 ]
