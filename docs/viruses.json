@@ -49,7 +49,7 @@
         "virulence" : 0.05,
         "incubation" : 12,
         "infection" : 9,
-        "lethality" : 0.5,
+        "lethality" : 0.3,
         "vaccination" : 0,
         "quarantine" : false,
         "distancing" : false
@@ -57,7 +57,7 @@
 
     {
         "name" : "Bubonic Plague", 
-        "virulence" : 0.05,
+        "virulence" : 0.02,
         "incubation" : 2,
         "infection" : 7,
         "lethality" : 0.3,
