@@ -46,9 +46,9 @@
 
     {
         "name" : "Smallpox", 
-        "virulence" : 0.2,
+        "virulence" : 0.25,
         "incubation" : 10,
-        "infection" : 10,
+        "infection" : 14,
         "lethality" : 0.5,
         "vaccination" : 0,
         "quarantine" : false,
@@ -59,7 +59,7 @@
         "name" : "Black Death", 
         "virulence" : 0.1,
         "incubation" : 1,
-        "infection" : 1,
+        "infection" : 7,
         "lethality" : 0.7,
         "vaccination" : 0,
         "quarantine" : false,
