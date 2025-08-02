@@ -49,7 +49,7 @@
         "virulence" : 0.05,
         "incubation" : 10,
         "infection" : 9,
-        "lethality" : 0.2,
+        "lethality" : 0.1,
         "vaccination" : 0,
         "quarantine" : false,
         "distancing" : false
