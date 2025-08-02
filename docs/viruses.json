@@ -47,20 +47,20 @@
     {
         "name" : "Smallpox", 
         "virulence" : 0.05,
-        "incubation" : 12,
+        "incubation" : 10,
         "infection" : 9,
-        "lethality" : 0.3,
+        "lethality" : 0.2,
         "vaccination" : 0,
-        "quarantine" : false,
+        "quarantine" : true,
         "distancing" : false
     },
 
     {
         "name" : "Bubonic Plague", 
-        "virulence" : 0.02,
+        "virulence" : 0.03,
         "incubation" : 2,
         "infection" : 7,
-        "lethality" : 0.3,
+        "lethality" : 0.5,
         "vaccination" : 0,
         "quarantine" : false,
         "distancing" : false
