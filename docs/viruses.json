@@ -46,12 +46,12 @@
 
     {
         "name" : "Smallpox", 
-        "virulence" : 0.05,
+        "virulence" : 0.1,
         "incubation" : 10,
         "infection" : 9,
         "lethality" : 0.1,
         "vaccination" : 0,
-        "quarantine" : false,
+        "quarantine" : true,
         "distancing" : false
     },
 
