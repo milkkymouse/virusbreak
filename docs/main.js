@@ -603,7 +603,7 @@ $(document).ready(function () {
 
     $("td").click(function () {
         result = $(this).attr('id').split("_");
-        people[result[1]][result[3]].infectedAt = day;
+        people[result[5]][result[3]].infectedAt = day;
         setPeopleClasses();
     });
 

@@ -46,7 +46,7 @@
 
     {
         "name" : "Smallpox", 
-        "virulence" : 0.1,
+        "virulence" : 0.2,
         "incubation" : 10,
         "infection" : 9,
         "lethality" : 0.1,
